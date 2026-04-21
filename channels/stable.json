@@ -1,5 +1,20 @@
 {
   "schemaVersion": 1,
   "id": "stable",
-  "packages": []
+  "packages": [
+    {
+      "id": "@platform/communication",
+      "kind": "library",
+      "repo": "gutula/gutu-lib-communication",
+      "version": "0.1.0",
+      "channel": "stable",
+      "artifact": {
+        "uri": "https://github.com/gutula/gutu-lib-communication/releases/download/v0.1.0/platform-communication-0.1.0.tgz",
+        "format": "tgz",
+        "sha256": "5b644938818b465c2b172bd3b2b125b0a61d14c06541550379f000a7c638ad02",
+        "signature": "64+U6GAmsWRwRrJU1lTP60tHASnlPUSTTYSGIfc/SjtDv9BoN/Mk0bBSDOrMdX5Rn6LLQ/ZHlDj7cJ6thAC9DA==",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAexuSkN+unzBKhRPyW54aCkHfx457CDrGZ8bOFNSylkU=\n-----END PUBLIC KEY-----\n"
+      }
+    }
+  ]
 }
