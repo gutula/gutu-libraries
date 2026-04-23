@@ -1,121 +1,189 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-21T18:13:51.279Z",
+  "generatedAt": "2026-04-22T20:38:34.201Z",
   "packages": [
     {
       "id": "@platform/admin-builders",
+      "canonicalId": "@gutu/admin-builders",
+      "legacyIds": [
+        "@platform/admin-builders"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-builders",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-contracts",
+      "canonicalId": "@gutu/admin-contracts",
+      "legacyIds": [
+        "@platform/admin-contracts"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-contracts",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-formview",
+      "canonicalId": "@gutu/admin-formview",
+      "legacyIds": [
+        "@platform/admin-formview"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-formview",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-listview",
+      "canonicalId": "@gutu/admin-listview",
+      "legacyIds": [
+        "@platform/admin-listview"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-listview",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-reporting",
+      "canonicalId": "@gutu/admin-reporting",
+      "legacyIds": [
+        "@platform/admin-reporting"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-reporting",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-shell-workbench",
+      "canonicalId": "@gutu/admin-shell-workbench",
+      "legacyIds": [
+        "@platform/admin-shell-workbench"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-shell-workbench",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/admin-widgets",
+      "canonicalId": "@gutu/admin-widgets",
+      "legacyIds": [
+        "@platform/admin-widgets"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-admin-widgets",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai",
+      "canonicalId": "@gutu/ai",
+      "legacyIds": [
+        "@platform/ai"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai-evals",
+      "canonicalId": "@gutu/ai-evals",
+      "legacyIds": [
+        "@platform/ai-evals"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai-evals",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai-guardrails",
+      "canonicalId": "@gutu/ai-guardrails",
+      "legacyIds": [
+        "@platform/ai-guardrails"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai-guardrails",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai-mcp",
+      "canonicalId": "@gutu/ai-mcp",
+      "legacyIds": [
+        "@platform/ai-mcp"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai-mcp",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai-memory",
+      "canonicalId": "@gutu/ai-memory",
+      "legacyIds": [
+        "@platform/ai-memory"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai-memory",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ai-runtime",
+      "canonicalId": "@gutu/ai-runtime",
+      "legacyIds": [
+        "@platform/ai-runtime"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ai-runtime",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/analytics",
+      "canonicalId": "@gutu/analytics",
+      "legacyIds": [
+        "@platform/analytics"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-analytics",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/chart",
+      "canonicalId": "@gutu/chart",
+      "legacyIds": [
+        "@platform/chart"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-chart",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/command-palette",
+      "canonicalId": "@gutu/command-palette",
+      "legacyIds": [
+        "@platform/command-palette"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-command-palette",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/communication",
+      "canonicalId": "@gutu/communication",
+      "legacyIds": [
+        "@platform/communication"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-communication",
       "version": "0.1.0",
@@ -130,150 +198,1345 @@
     },
     {
       "id": "@platform/contracts",
+      "canonicalId": "@gutu/contracts",
+      "legacyIds": [
+        "@platform/contracts"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-contracts",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/data-table",
+      "canonicalId": "@gutu/data-table",
+      "legacyIds": [
+        "@platform/data-table"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-data-table",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/editor",
+      "canonicalId": "@gutu/editor",
+      "legacyIds": [
+        "@platform/editor"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-editor",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/email-templates",
+      "canonicalId": "@gutu/email-templates",
+      "legacyIds": [
+        "@platform/email-templates"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-email-templates",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/form",
+      "canonicalId": "@gutu/form",
+      "legacyIds": [
+        "@platform/form"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-form",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/geo",
+      "canonicalId": "@gutu/geo",
+      "legacyIds": [
+        "@platform/geo"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-geo",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/layout",
+      "canonicalId": "@gutu/layout",
+      "legacyIds": [
+        "@platform/layout"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-layout",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-core",
+      "canonicalId": "@gutu/payments-core",
+      "legacyIds": [
+        "@platform/payments-core"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-2c2p",
+      "canonicalId": "@gutu/payments-provider-2c2p",
+      "legacyIds": [
+        "@platform/payments-provider-2c2p"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-adyen",
+      "canonicalId": "@gutu/payments-provider-adyen",
+      "legacyIds": [
+        "@platform/payments-provider-adyen"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-airwallex",
+      "canonicalId": "@gutu/payments-provider-airwallex",
+      "legacyIds": [
+        "@platform/payments-provider-airwallex"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-alipay",
+      "canonicalId": "@gutu/payments-provider-alipay",
+      "legacyIds": [
+        "@platform/payments-provider-alipay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-amazon-pay",
+      "canonicalId": "@gutu/payments-provider-amazon-pay",
+      "legacyIds": [
+        "@platform/payments-provider-amazon-pay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-amazon-payment-services",
+      "canonicalId": "@gutu/payments-provider-amazon-payment-services",
+      "legacyIds": [
+        "@platform/payments-provider-amazon-payment-services"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-asiapay-paydollar",
+      "canonicalId": "@gutu/payments-provider-asiapay-paydollar",
+      "legacyIds": [
+        "@platform/payments-provider-asiapay-paydollar"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-authorize-net",
+      "canonicalId": "@gutu/payments-provider-authorize-net",
+      "legacyIds": [
+        "@platform/payments-provider-authorize-net"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-billplz",
+      "canonicalId": "@gutu/payments-provider-billplz",
+      "legacyIds": [
+        "@platform/payments-provider-billplz"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-bluesnap",
+      "canonicalId": "@gutu/payments-provider-bluesnap",
+      "legacyIds": [
+        "@platform/payments-provider-bluesnap"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-braintree",
+      "canonicalId": "@gutu/payments-provider-braintree",
+      "legacyIds": [
+        "@platform/payments-provider-braintree"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-buckaroo",
+      "canonicalId": "@gutu/payments-provider-buckaroo",
+      "legacyIds": [
+        "@platform/payments-provider-buckaroo"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-cashfree-payments",
+      "canonicalId": "@gutu/payments-provider-cashfree-payments",
+      "legacyIds": [
+        "@platform/payments-provider-cashfree-payments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-ccavenue",
+      "canonicalId": "@gutu/payments-provider-ccavenue",
+      "legacyIds": [
+        "@platform/payments-provider-ccavenue"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-checkout-com",
+      "canonicalId": "@gutu/payments-provider-checkout-com",
+      "legacyIds": [
+        "@platform/payments-provider-checkout-com"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-cloudpayments",
+      "canonicalId": "@gutu/payments-provider-cloudpayments",
+      "legacyIds": [
+        "@platform/payments-provider-cloudpayments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-conekta",
+      "canonicalId": "@gutu/payments-provider-conekta",
+      "legacyIds": [
+        "@platform/payments-provider-conekta"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-cybersource",
+      "canonicalId": "@gutu/payments-provider-cybersource",
+      "legacyIds": [
+        "@platform/payments-provider-cybersource"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-dlocal",
+      "canonicalId": "@gutu/payments-provider-dlocal",
+      "legacyIds": [
+        "@platform/payments-provider-dlocal"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-doku",
+      "canonicalId": "@gutu/payments-provider-doku",
+      "legacyIds": [
+        "@platform/payments-provider-doku"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-dwolla",
+      "canonicalId": "@gutu/payments-provider-dwolla",
+      "legacyIds": [
+        "@platform/payments-provider-dwolla"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-easebuzz",
+      "canonicalId": "@gutu/payments-provider-easebuzz",
+      "legacyIds": [
+        "@platform/payments-provider-easebuzz"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-ebanx",
+      "canonicalId": "@gutu/payments-provider-ebanx",
+      "legacyIds": [
+        "@platform/payments-provider-ebanx"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-ecommpay",
+      "canonicalId": "@gutu/payments-provider-ecommpay",
+      "legacyIds": [
+        "@platform/payments-provider-ecommpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-eway",
+      "canonicalId": "@gutu/payments-provider-eway",
+      "legacyIds": [
+        "@platform/payments-provider-eway"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-eximbay",
+      "canonicalId": "@gutu/payments-provider-eximbay",
+      "legacyIds": [
+        "@platform/payments-provider-eximbay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-fincode-bygmo",
+      "canonicalId": "@gutu/payments-provider-fincode-bygmo",
+      "legacyIds": [
+        "@platform/payments-provider-fincode-bygmo"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-fiserv",
+      "canonicalId": "@gutu/payments-provider-fiserv",
+      "legacyIds": [
+        "@platform/payments-provider-fiserv"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-fiuu",
+      "canonicalId": "@gutu/payments-provider-fiuu",
+      "legacyIds": [
+        "@platform/payments-provider-fiuu"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-flutterwave",
+      "canonicalId": "@gutu/payments-provider-flutterwave",
+      "legacyIds": [
+        "@platform/payments-provider-flutterwave"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-fondy",
+      "canonicalId": "@gutu/payments-provider-fondy",
+      "legacyIds": [
+        "@platform/payments-provider-fondy"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-forte",
+      "canonicalId": "@gutu/payments-provider-forte",
+      "legacyIds": [
+        "@platform/payments-provider-forte"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-global-payments",
+      "canonicalId": "@gutu/payments-provider-global-payments",
+      "legacyIds": [
+        "@platform/payments-provider-global-payments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-helcim",
+      "canonicalId": "@gutu/payments-provider-helcim",
+      "legacyIds": [
+        "@platform/payments-provider-helcim"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-hitpay",
+      "canonicalId": "@gutu/payments-provider-hitpay",
+      "legacyIds": [
+        "@platform/payments-provider-hitpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-hyperpay",
+      "canonicalId": "@gutu/payments-provider-hyperpay",
+      "legacyIds": [
+        "@platform/payments-provider-hyperpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-instamojo",
+      "canonicalId": "@gutu/payments-provider-instamojo",
+      "legacyIds": [
+        "@platform/payments-provider-instamojo"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-intasend",
+      "canonicalId": "@gutu/payments-provider-intasend",
+      "legacyIds": [
+        "@platform/payments-provider-intasend"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-ipay88",
+      "canonicalId": "@gutu/payments-provider-ipay88",
+      "legacyIds": [
+        "@platform/payments-provider-ipay88"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-iyzico",
+      "canonicalId": "@gutu/payments-provider-iyzico",
+      "legacyIds": [
+        "@platform/payments-provider-iyzico"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-klarna",
+      "canonicalId": "@gutu/payments-provider-klarna",
+      "legacyIds": [
+        "@platform/payments-provider-klarna"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-komoju",
+      "canonicalId": "@gutu/payments-provider-komoju",
+      "legacyIds": [
+        "@platform/payments-provider-komoju"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-kushki",
+      "canonicalId": "@gutu/payments-provider-kushki",
+      "legacyIds": [
+        "@platform/payments-provider-kushki"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-liqpay",
+      "canonicalId": "@gutu/payments-provider-liqpay",
+      "legacyIds": [
+        "@platform/payments-provider-liqpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-m-pesa-daraja",
+      "canonicalId": "@gutu/payments-provider-m-pesa-daraja",
+      "legacyIds": [
+        "@platform/payments-provider-m-pesa-daraja"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-mercado-pago",
+      "canonicalId": "@gutu/payments-provider-mercado-pago",
+      "legacyIds": [
+        "@platform/payments-provider-mercado-pago"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-midtrans",
+      "canonicalId": "@gutu/payments-provider-midtrans",
+      "legacyIds": [
+        "@platform/payments-provider-midtrans"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-mollie",
+      "canonicalId": "@gutu/payments-provider-mollie",
+      "legacyIds": [
+        "@platform/payments-provider-mollie"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-monei",
+      "canonicalId": "@gutu/payments-provider-monei",
+      "legacyIds": [
+        "@platform/payments-provider-monei"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-moneris",
+      "canonicalId": "@gutu/payments-provider-moneris",
+      "legacyIds": [
+        "@platform/payments-provider-moneris"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-mtn-momo",
+      "canonicalId": "@gutu/payments-provider-mtn-momo",
+      "legacyIds": [
+        "@platform/payments-provider-mtn-momo"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-multisafepay",
+      "canonicalId": "@gutu/payments-provider-multisafepay",
+      "legacyIds": [
+        "@platform/payments-provider-multisafepay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-myfatoorah",
+      "canonicalId": "@gutu/payments-provider-myfatoorah",
+      "legacyIds": [
+        "@platform/payments-provider-myfatoorah"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-nexi-checkout-nets",
+      "canonicalId": "@gutu/payments-provider-nexi-checkout-nets",
+      "legacyIds": [
+        "@platform/payments-provider-nexi-checkout-nets"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-nmi",
+      "canonicalId": "@gutu/payments-provider-nmi",
+      "legacyIds": [
+        "@platform/payments-provider-nmi"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-nuvei",
+      "canonicalId": "@gutu/payments-provider-nuvei",
+      "legacyIds": [
+        "@platform/payments-provider-nuvei"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-openpay",
+      "canonicalId": "@gutu/payments-provider-openpay",
+      "legacyIds": [
+        "@platform/payments-provider-openpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-opn-payments-omise",
+      "canonicalId": "@gutu/payments-provider-opn-payments-omise",
+      "legacyIds": [
+        "@platform/payments-provider-opn-payments-omise"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-ozow",
+      "canonicalId": "@gutu/payments-provider-ozow",
+      "legacyIds": [
+        "@platform/payments-provider-ozow"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-pagar-me",
+      "canonicalId": "@gutu/payments-provider-pagar-me",
+      "legacyIds": [
+        "@platform/payments-provider-pagar-me"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-pagbank-pagseguro",
+      "canonicalId": "@gutu/payments-provider-pagbank-pagseguro",
+      "legacyIds": [
+        "@platform/payments-provider-pagbank-pagseguro"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-pay-jp",
+      "canonicalId": "@gutu/payments-provider-pay-jp",
+      "legacyIds": [
+        "@platform/payments-provider-pay-jp"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-payfast",
+      "canonicalId": "@gutu/payments-provider-payfast",
+      "legacyIds": [
+        "@platform/payments-provider-payfast"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-payjunction",
+      "canonicalId": "@gutu/payments-provider-payjunction",
+      "legacyIds": [
+        "@platform/payments-provider-payjunction"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paymob",
+      "canonicalId": "@gutu/payments-provider-paymob",
+      "legacyIds": [
+        "@platform/payments-provider-paymob"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paymongo",
+      "canonicalId": "@gutu/payments-provider-paymongo",
+      "legacyIds": [
+        "@platform/payments-provider-paymongo"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paypal-checkout",
+      "canonicalId": "@gutu/payments-provider-paypal-checkout",
+      "legacyIds": [
+        "@platform/payments-provider-paypal-checkout"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-payrexx",
+      "canonicalId": "@gutu/payments-provider-payrexx",
+      "legacyIds": [
+        "@platform/payments-provider-payrexx"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paysafe",
+      "canonicalId": "@gutu/payments-provider-paysafe",
+      "legacyIds": [
+        "@platform/payments-provider-paysafe"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paysera",
+      "canonicalId": "@gutu/payments-provider-paysera",
+      "legacyIds": [
+        "@platform/payments-provider-paysera"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paystack",
+      "canonicalId": "@gutu/payments-provider-paystack",
+      "legacyIds": [
+        "@platform/payments-provider-paystack"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paytabs",
+      "canonicalId": "@gutu/payments-provider-paytabs",
+      "legacyIds": [
+        "@platform/payments-provider-paytabs"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paytm-payment-gateway",
+      "canonicalId": "@gutu/payments-provider-paytm-payment-gateway",
+      "legacyIds": [
+        "@platform/payments-provider-paytm-payment-gateway"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-paytrail",
+      "canonicalId": "@gutu/payments-provider-paytrail",
+      "legacyIds": [
+        "@platform/payments-provider-paytrail"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-payu-india",
+      "canonicalId": "@gutu/payments-provider-payu-india",
+      "legacyIds": [
+        "@platform/payments-provider-payu-india"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-peach-payments",
+      "canonicalId": "@gutu/payments-provider-peach-payments",
+      "legacyIds": [
+        "@platform/payments-provider-peach-payments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-pesapal",
+      "canonicalId": "@gutu/payments-provider-pesapal",
+      "legacyIds": [
+        "@platform/payments-provider-pesapal"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-phonepe-payment-gateway",
+      "canonicalId": "@gutu/payments-provider-phonepe-payment-gateway",
+      "legacyIds": [
+        "@platform/payments-provider-phonepe-payment-gateway"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-placetopay",
+      "canonicalId": "@gutu/payments-provider-placetopay",
+      "legacyIds": [
+        "@platform/payments-provider-placetopay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-przelewy24",
+      "canonicalId": "@gutu/payments-provider-przelewy24",
+      "legacyIds": [
+        "@platform/payments-provider-przelewy24"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-rapyd",
+      "canonicalId": "@gutu/payments-provider-rapyd",
+      "legacyIds": [
+        "@platform/payments-provider-rapyd"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-razorpay",
+      "canonicalId": "@gutu/payments-provider-razorpay",
+      "legacyIds": [
+        "@platform/payments-provider-razorpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-redsys",
+      "canonicalId": "@gutu/payments-provider-redsys",
+      "legacyIds": [
+        "@platform/payments-provider-redsys"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-senangpay",
+      "canonicalId": "@gutu/payments-provider-senangpay",
+      "legacyIds": [
+        "@platform/payments-provider-senangpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-shift4",
+      "canonicalId": "@gutu/payments-provider-shift4",
+      "legacyIds": [
+        "@platform/payments-provider-shift4"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-square",
+      "canonicalId": "@gutu/payments-provider-square",
+      "legacyIds": [
+        "@platform/payments-provider-square"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-stripe",
+      "canonicalId": "@gutu/payments-provider-stripe",
+      "legacyIds": [
+        "@platform/payments-provider-stripe"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-tap-payments",
+      "canonicalId": "@gutu/payments-provider-tap-payments",
+      "legacyIds": [
+        "@platform/payments-provider-tap-payments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-toss-payments",
+      "canonicalId": "@gutu/payments-provider-toss-payments",
+      "legacyIds": [
+        "@platform/payments-provider-toss-payments"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-toyyibpay",
+      "canonicalId": "@gutu/payments-provider-toyyibpay",
+      "legacyIds": [
+        "@platform/payments-provider-toyyibpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-tpay",
+      "canonicalId": "@gutu/payments-provider-tpay",
+      "legacyIds": [
+        "@platform/payments-provider-tpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-transbank",
+      "canonicalId": "@gutu/payments-provider-transbank",
+      "legacyIds": [
+        "@platform/payments-provider-transbank"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-vipps-mobilepay",
+      "canonicalId": "@gutu/payments-provider-vipps-mobilepay",
+      "legacyIds": [
+        "@platform/payments-provider-vipps-mobilepay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-viva-com",
+      "canonicalId": "@gutu/payments-provider-viva-com",
+      "legacyIds": [
+        "@platform/payments-provider-viva-com"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-wechat-pay",
+      "canonicalId": "@gutu/payments-provider-wechat-pay",
+      "legacyIds": [
+        "@platform/payments-provider-wechat-pay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-wompi",
+      "canonicalId": "@gutu/payments-provider-wompi",
+      "legacyIds": [
+        "@platform/payments-provider-wompi"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-worldline",
+      "canonicalId": "@gutu/payments-provider-worldline",
+      "legacyIds": [
+        "@platform/payments-provider-worldline"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-worldpay",
+      "canonicalId": "@gutu/payments-provider-worldpay",
+      "legacyIds": [
+        "@platform/payments-provider-worldpay"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-xendit",
+      "canonicalId": "@gutu/payments-provider-xendit",
+      "legacyIds": [
+        "@platform/payments-provider-xendit"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
+    },
+    {
+      "id": "@platform/payments-provider-yookassa",
+      "canonicalId": "@gutu/payments-provider-yookassa",
+      "legacyIds": [
+        "@platform/payments-provider-yookassa"
+      ],
+      "kind": "library",
+      "repo": "gutula/gutu-lib-payments",
+      "version": "0.1.0",
+      "channel": "next"
     },
     {
       "id": "@platform/query",
+      "canonicalId": "@gutu/query",
+      "legacyIds": [
+        "@platform/query"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-query",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/router",
+      "canonicalId": "@gutu/router",
+      "legacyIds": [
+        "@platform/router"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-router",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/search",
+      "canonicalId": "@gutu/search",
+      "legacyIds": [
+        "@platform/search"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-search",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/telemetry-ui",
+      "canonicalId": "@gutu/telemetry-ui",
+      "legacyIds": [
+        "@platform/telemetry-ui"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-telemetry-ui",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui",
+      "canonicalId": "@gutu/ui",
+      "legacyIds": [
+        "@platform/ui"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-editor",
+      "canonicalId": "@gutu/ui-editor",
+      "legacyIds": [
+        "@platform/ui-editor"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-editor",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-form",
+      "canonicalId": "@gutu/ui-form",
+      "legacyIds": [
+        "@platform/ui-form"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-form",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-kit",
+      "canonicalId": "@gutu/ui-kit",
+      "legacyIds": [
+        "@platform/ui-kit"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-kit",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-query",
+      "canonicalId": "@gutu/ui-query",
+      "legacyIds": [
+        "@platform/ui-query"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-query",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-router",
+      "canonicalId": "@gutu/ui-router",
+      "legacyIds": [
+        "@platform/ui-router"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-router",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-shell",
+      "canonicalId": "@gutu/ui-shell",
+      "legacyIds": [
+        "@platform/ui-shell"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-shell",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-table",
+      "canonicalId": "@gutu/ui-table",
+      "legacyIds": [
+        "@platform/ui-table"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-table",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-zone-next",
+      "canonicalId": "@gutu/ui-zone-next",
+      "legacyIds": [
+        "@platform/ui-zone-next"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-zone-next",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     },
     {
       "id": "@platform/ui-zone-static",
+      "canonicalId": "@gutu/ui-zone-static",
+      "legacyIds": [
+        "@platform/ui-zone-static"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-ui-zone-static",
       "version": "0.1.0",
-      "channel": "stable"
+      "channel": "next"
     }
   ]
 }

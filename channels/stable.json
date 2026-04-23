@@ -4,6 +4,10 @@
   "packages": [
     {
       "id": "@platform/communication",
+      "canonicalId": "@gutu/communication",
+      "legacyIds": [
+        "@platform/communication"
+      ],
       "kind": "library",
       "repo": "gutula/gutu-lib-communication",
       "version": "0.1.0",
